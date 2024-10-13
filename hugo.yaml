@@ -1,0 +1,26 @@
+baseURL: "https://omrilevy.dev/"
+languageCode: "en-us"
+title: "omrilevy.dev"
+theme: "papermod"
+
+params:
+  profileMode:
+    enabled: true
+    subtitle: "A humble dev blog"
+    imageUrl: "https://gravatar.com/avatar/a0d1d46ccec028e2ac45d87c0ccc0fff8aad349367675246367340d574d4113f?s=120" # optional
+    imageTitle: "gravatar picture"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Posts
+        url: "/posts"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/omri2861"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/omri-levy-3515a5207/"
+    - name: "instagram"
+      url: "https://www.instagram.com/omri.levy28/"
+    - name: "email"
+      url: "mailto:omri2861@gmail.com"
