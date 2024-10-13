@@ -13,7 +13,7 @@ params:
     imageHeight: 120
     buttons:
       - name: Posts
-        url: "/posts"
+        url: "./posts"
 
   socialIcons: # optional
     - name: "github"
